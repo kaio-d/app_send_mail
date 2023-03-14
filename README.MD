@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto App Send mail, consiste em uma aplicação que simula o envio de email para determinados usuários, atividade para reforçarmos os estudos do PHP utilizando o conceito de Orientação a Obejtos, implemtando alguns conceitos de segurança e práticas do dia á dia.
+O projeto App Send mail, consiste em uma aplicação que simula o envio de email para determinados usuários, atividade para reforçarmos os estudos do PHP utilizando o conceito de Orientação a Obejtos, implemtando alguns conceitos de segurança e introdução a biblitoeca PHPMailer e práticas do dia á dia.
 
 <p align="center">
   <img alt="projeto App Send Mail" src="success.png" width="100%">
